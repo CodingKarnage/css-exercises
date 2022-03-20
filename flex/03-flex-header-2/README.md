@@ -7,7 +7,7 @@ For this one you will probably need to edit the HTML a little bit. Often with fl
 This is also the first example where you'll be nesting flex containers inside each other.
 
 ## Desired outcome
-As with the last example, this one needs to be flexible in the middle, with items pushed to the left and right.
+As with the last example, this one needs to be flexible in the middle, with items pushed to the left and ri qaght.
 
 ![png](./desired-outcome.png)
 
